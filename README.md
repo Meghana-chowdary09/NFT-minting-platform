@@ -135,4 +135,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions and support, please open an issue in the GitHub repository or join our community channels.
 
 Contract id:CDEGGICMNPPLCLZOD4Q5C6RBFJV47LE7PQXLDHQ5KZ5E5LY6S6T32Z3K
+## 📸 Contract Deployment Screenshot
+
+![Contract Deployment Screenshot](https://github.com/Meghana-chowdary09/NFT-minting-platform/blob/main/image.png.png)
+
+
 
